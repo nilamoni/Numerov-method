@@ -1,1 +1,1 @@
-There are four codes that use Numerov's algorithm to solve the s-wave Schrodinger equation for four different potentials.
+There are four codes named as "practical_(1,2,3,4).ipynb" that use Numerov's algorithm to solve the s-wave Schrodinger equation for four different potentials. There is also a code named " 1D_harmonic_oscillator_animated.inpyb" that shows the time evolution of the wavefunctions of a 1D linear harmonic osciallator.
